@@ -32,7 +32,7 @@ Option 3:
 ```javascript
 setInterval(function() {
      let d = new Date();
-     document.getElementById("result").innerHTML = d;
+     document.getElementById("result").innerHTML = d;            
 }, 1000);
 ```
 Option 4:
@@ -44,4 +44,6 @@ function printDate() {
       }
 }
 printDate();
+
+Option 3
 ```
